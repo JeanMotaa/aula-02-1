@@ -1,4 +1,4 @@
 #Trabalho colaborativo
--Jean
--Renan
--Gabriel
+- Jean
+- Renan
+- Gabriel
