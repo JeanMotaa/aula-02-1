@@ -1,4 +1,4 @@
-#Trabalho colaborativo
+# Trabalho colaborativo
 - Jean
 - Renan
-- Gabriel
+- Gabriel Demmer Maciel
